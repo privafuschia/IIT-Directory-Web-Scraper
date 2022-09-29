@@ -1,0 +1,921 @@
+
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Academic Affairs
+EMAIL = ugaa@iit.edu
+LOCATION =  Office of Academic Affairs
+Michael Paul Galvin Tower
+10 West 35th Street, Suite 2C4-2
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Academic Resource Center
+EMAIL = arc@iit.edu
+LOCATION =  Academic Resource Center
+Galvin Library
+35 West 33rd Street
+Lower Level - Rm 007
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Active Computational Thinking (ACT) Center
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Air Force ROTC (AFROTC)
+EMAIL = afrotc@iit.edu
+LOCATION =  IIT AFROTC
+Michael Paul Galvin Tower
+10 West 35th Street, 15th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Applied Mathematics
+EMAIL = amath@iit.edu
+LOCATION =  Department of Applied Mathematics
+Rettaliata Engineering Center
+10 West 32nd Street, Room 220
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Armour College of Engineering
+EMAIL = engineering@iit.edu
+LOCATION =  Armour College of Engineering
+Perlstein Hall
+10 West 33rd Street, Suite 224
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Army ROTC
+EMAIL = armyrotc@iit.edu
+LOCATION =  IIT Army ROTC
+Michael Paul Galvin Tower
+10 West 35th Street, 15th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Athletics
+LOCATION =  Athletics
+Keating Sports Center
+3040 South Wabash Avenue
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Biology
+EMAIL = kersh@iit.edu
+LOCATION =  Department of Biology
+Robert A. Pritzker Science Center
+3101 South Dearborn Street, Room 182
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Biomedical Engineering
+EMAIL = bme@iit.edu
+LOCATION =  Department of Biomedical Engineering
+Wishnick Hall
+3255 South Dearborn Street, Suite 314
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Budget and Finance
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Campus Business Services Center
+EMAIL = campusbusiness@iit.edu
+LOCATION =  Campus Business Services
+McCormick Tribune Campus Center
+3201 South State Street, Room 514
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Career Services
+EMAIL = careerservices@iit.edu
+LOCATION =  McCormick Tribune Campus Center
+3201 South State Street
+Room 106
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Advancing Corporate Performance
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Complex Systems and Dynamics
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Cyber Security and Forensics Education (C²SAFE)
+LOCATION =  Rice Campus
+201 East Loop Road, Room 138
+Wheaton, IL 60189
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Center for Disability Resources
+EMAIL = disabilities@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Integrative Neuroscience and Neuroengineering Research
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Center for Leadership Studies
+EMAIL = leadership.academy@iit.edu
+LOCATION =  Center for Leadership Studies
+Michael Paul Galvin Tower
+10 West 35th Street, 12th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Learning Innovation
+EMAIL = cli@iit.edu
+LOCATION =  10 West 31st Street
+Stuart Building
+Room 103
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Molecular Study of Condensed Soft Matter
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Research and Service
+EMAIL = center@iit.edu
+LOCATION =  Center for Research and Service
+Michael Paul Galvin Tower
+10 W. 35th Street, Suite 1200
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Stochastic Dynamics
+LOCATION =  14th Floor, Michael P. Galvin Tower
+ 
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Strategic Finance
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Study of Ethics in the Professions
+LOCATION =  Center for the Study of Ethics in the Professions
+Michael Paul Galvin Tower
+10 West 35th Street, 14th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Center for Synchrotron Radiation Research and Instrumentation
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Chemical and Biological Engineering
+EMAIL = chbe@iit.edu
+LOCATION =  Department of Chemical and
+Biological Engineering
+10 West 33rd Street
+Perlstein Hall, Suite 127
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Chemistry
+EMAIL = gfox1@iit.edu
+LOCATION =  Department of Chemistry
+Robert A. Pritzker Science Center
+3101 South Dearborn Street, Room 136
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Chicago-Kent College of Law
+LOCATION =  Chicago-Kent College of Law
+565 West Adams Street
+Chicago, IL 60661
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Chicago-Kent College of Law Library
+EMAIL = library@kentlaw.iit.edu
+LOCATION =  Chicago-Kent College of Law Library
+565 West Adams, 9th Floor
+Chicago, IL 60661
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Civil, Architectural, and Environmental Engineering
+EMAIL = caee@iit.edu
+LOCATION =  Civil, Architectural, and Environmental Engineering
+Alumni Memorial Hall
+3201 South Dearborn Street, Suite 228
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = College of Architecture
+EMAIL = arch@iit.edu
+LOCATION =  College of Architecture
+3360 South State Street
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = College of Computing
+LOCATION =  College of Computing
+Michael Paul Galvin Tower
+10 West 35th Street, 14th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Commencement
+EMAIL = commencement@iit.edu
+LOCATION =  Hermann Hall
+3241 South Federal Street, Suite 102
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Communication Across the Curriculum (CAC)
+EMAIL = pulliam@iit.edu
+LOCATION =  213 Siegel Hall, 3301 S. Dearborn, Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Computer Science
+EMAIL = info@cs.iit.edu
+LOCATION =  Department of Computer Science
+Stuart Building
+10 West 31st Street, Room 235
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Controller’s Office
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Corporate Education Partnerships
+EMAIL = cep@iit.edu
+LOCATION =  Corporate Education Partnerships
+Perlstein Hall
+10 West 33rd Street, Room 203
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Diversity, Equity, and Inclusion at Illinois Tech
+EMAIL = DEICommittee@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Institute
+NAME = Ed Kaplan Family Institute for Innovation and Tech Entrepreneurship
+EMAIL = kiinfo@kaplan.iit.edu
+LOCATION =  Ed Kaplan Family Institute for Innovation and Tech Entrepreneurship
+3137 South Federal Street
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Electrical and Computer Engineering
+EMAIL = ece@iit.edu
+LOCATION =  Electrical and Computer Engineering
+Siegel Hall
+3301 South Dearborn Street, Suite 103
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Elevate Your Future
+EMAIL = elevate@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Emergency Management
+EMAIL = rstarbuck@iit.edu
+LOCATION =  Galvin Tower
+10 West 35th Street, 4E9-1
+Chicago, Illinois 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Empowerment, Leadership, and Mentorship Program
+EMAIL = elm@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = English Language Services
+EMAIL = els@iit.edu
+LOCATION =  English Language Services
+Michael Paul Galvin Tower
+10 West 35th Street, 4C9-1
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Enrollment Process Intelligence
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Enrollment Services
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Esports
+EMAIL = esports@iit.edu
+LOCATION =  McCormick Tribune Campus Center (MTCC)
+3201 S. State Street
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Export Compliance Program
+EMAIL = exportcontrol@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Facilities Operations and Maintenance
+EMAIL = facilities-helpdesk@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Financial Aid
+EMAIL = finaid@iit.edu
+LOCATION =  Office of Financial Aid
+Michael Paul Galvin Tower
+10 West 35th Street, 2nd Floor
+Student Service Center
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Food Science and Nutrition
+EMAIL = fdsn@iit.edu
+LOCATION =  Michael Paul Galvin Tower
+10 West 35th Street, 18th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = General Accounting
+LOCATION =  General Accounting
+Tech Central
+3424 South State Street, 4th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Graduate Academic Affairs
+EMAIL = gradcoll@iit.edu
+LOCATION =  Office of Graduate Academic Affairs
+Michael Paul Galvin Tower
+10 West 35th Street, Suite 2C4-2
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Graduate Admission
+EMAIL = grad.admission@iit.edu
+LOCATION =  Office of Graduate Admission
+Perlstein Hall
+10 West 33rd Street, Room 206
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Graham Resource Center
+LOCATION =  Graham Resource Center
+3360 South State Street
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Grant and Contract Accounting
+LOCATION =  Grant and Contract Accounting
+Tech Central
+3424 South State Street, Fourth Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Human Resources
+EMAIL = hr@iit.edu
+LOCATION =  Human Resources
+Michael Paul Galvin Tower
+10 West 35th Street, 13th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Humanities
+EMAIL = humanities@iit.edu
+LOCATION =  Department of Humanities
+Siegel Hall
+3301 South Dearborn, Suite 218
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = IFSH Library
+LOCATION =  IFSH Library
+6502 South Archer Road
+Bedford Park, IL 60501
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Illinois Tech Alumni Association
+EMAIL = alumni@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Illinois Tech Digital Medical Engineering and Technology (IDMET) Research and Education Center
+EMAIL = IDMET@iit.edu
+LOCATION =  Biomedical Engineering
+3255 S. Dearborn St.
+Wishnick Hall 314
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Industrial Technology and Management
+EMAIL = intm@iit.edu
+LOCATION =  Industrial Technology and Management
+Technology Park South
+3424 South State Street, Room 4001
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Information Technology and Management
+LOCATION =  Department of Information Technology and Management
+Perlstein Hall
+10 West 33rd Street, Room 223
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Institute
+NAME = Institute for Food Safety and Health (IFSH)
+LOCATION =  Institute for Food Safety and Health (IFSH)
+6502 South Archer Road
+Bedford Park, IL 60501
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Institute of Design
+LOCATION =  Institute of Design
+3137 South Federal Street, 2nd floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = International Center
+EMAIL = icenter@iit.edu
+LOCATION =  The McCormick Tribune Campus Center (MTCC)
+3201 South State Street, Room 106
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = International Center for Sensor Science and Engineering
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = IPRO Program
+EMAIL = ipro@iit.edu
+LOCATION =  IPRO Program
+3137 South Federal Street
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Lewis College of Science and Letters
+EMAIL = lewis@iit.edu
+LOCATION =  Lewis College of Science and Letters
+Michael Paul Galvin Tower
+10 West 35th Street
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Mechanical, Materials, and Aerospace Engineering
+EMAIL = mmae@iit.edu
+LOCATION =  Mechanical, Materials, and Aerospace Engineering
+John T. Rettaliata Engineering Center
+10 West 32nd Street, Room 243
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Navy ROTC (NROTC)
+EMAIL = nrotc@iit.edu
+LOCATION =  IIT NROTC
+Michael Paul Galvin Tower
+10 West 35th Street, 15th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Advancement
+EMAIL = alumni@iit.edu
+LOCATION =  Office of Advancement
+10 West 35th Street, Suite 1700
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Campus Energy and Sustainability
+EMAIL = campussustainability@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Campus Life
+EMAIL = campus.life@iit.edu
+LOCATION =  Office of Campus Life
+McCormick Tribune Campus Center
+Room 204 and 216-220
+3201 South State Street
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Community Affairs and Outreach Programs
+EMAIL = community@iit.edu
+LOCATION =  Office of Community Affairs and Outreach Programs
+Michael Paul Galvin Tower
+10 West 35th Street, Suite 9C5-1
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Community Standards
+EMAIL = conduct@iit.edu
+LOCATION =  Office of Community Standards
+McCormick Tribune Campus Center
+Room 207
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Corporate Relations
+EMAIL = corporate.relations@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Event Services
+EMAIL = events@iit.edu
+LOCATION =  Office of Event Services
+Hermann Hall
+3241 South Federal Street, Suite 102
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Finance and Administration
+LOCATION =  Office of Finance and Administration
+10 West 35th Street, Suite 1900
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Institutional Information and Research
+EMAIL = oii@iit.edu
+LOCATION =  Office of Institutional Information and Research
+3424 South State Street, Room 2014
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of International Affairs
+EMAIL = wasan@iit.edu
+LOCATION =  Office of International Affairs
+Perlstein Hall
+10 West 33rd Street, 228,
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Marketing and Communications
+LOCATION =  Office of Marketing and Communications
+Michael Paul Galvin Tower
+10 West 35th Street, Suite 13D8-2
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Office of Professional and Continuing Education
+EMAIL = opce@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Research
+LOCATION =  Office of Research
+10 West 35th Street, Suite 7D7-1
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Research Integrity and Compliance
+EMAIL = oric@iit.edu
+LOCATION =  Office of Research Integrity and Compliance
+Michael Paul Galvin Tower
+10 West 35th Street, 7D7-1
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Residence Life
+EMAIL = housing@iit.edu
+LOCATION =  Office of Residence Life
+3241 South Wabash Avenue, Suite 110
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Sponsored Research and Programs
+EMAIL = osrp@iit.edu
+LOCATION =  Office of Sponsored Research and Programs
+Michael Paul Galvin Tower
+10 West 35th Street, 7D7-1
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Technology Development
+EMAIL = sklapman@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Technology Services
+LOCATION =  Office of Technology Services
+IIT Tower
+10 West 35th Street, 8E4-1
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of the General Counsel
+LOCATION =  Office of the General Counsel
+Michael Paul Galvin Tower
+10 West 35th Street, Suite 1900-SW
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of the President
+LOCATION =  Office of the President
+Michael Paul Galvin Tower
+10 West 35th Street, Suite 1900
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of the Provost
+LOCATION =  Office of the Provost
+IIT Tower
+10 West 35th Street, Suite 1900
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of the Registrar
+EMAIL = registrar@iit.edu
+LOCATION =  Office of the Registrar
+Michael Paul Galvin Tower
+10 West 35th Street, Suite 2C4-2
+Chicago, IL 60616
+IPEDS ID: 145725OPE ID (Mies Campus): 00169100
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of the Vice Provost for Student Affairs
+EMAIL = dos@iit.edu
+LOCATION =  Office of Student Affairs
+McCormick Tribune Campus Center
+3201 S. State Street, Room 209
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office of Title IX Compliance and HEA Compliance
+LOCATION =  Michael Paul Galvin Tower,
+2nd Floor, Room 2D7-1,
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Office Services
+EMAIL = officeservices@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Paul V. Galvin Library
+EMAIL = library@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Payroll Office
+EMAIL = payroll@iit.edu
+LOCATION =  Payroll Office
+Tech Central Building
+3424 South State Street, Room 4B9-1
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Physics
+EMAIL = kersh@iit.edu
+LOCATION =  Department of Physics
+Robert A. Pritzker Science Center
+3101 South Dearborn Street, Room 182
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Planning, Design, and Construction
+LOCATION =  Illinois Tech
+Machinery Hall
+100 West 33rd Street
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Postal Services
+EMAIL = copy@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = President’s Student Advisory Council (PSAC)
+EMAIL = psac@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Institute
+NAME = Pritzker Institute of Biomedical Science and Engineering
+EMAIL = pritzker.institute@iit.edu
+LOCATION =  Pritzker Institute of Biomedical Science and Engineering
+Technology Business Center
+3440 South Dearborn Street, Suite 142
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Procurement Services
+LOCATION =  Procurement Services
+Michael Paul Galvin Tower
+10 West 35th Street, 13th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Psychology
+EMAIL = psychology@iit.edu
+LOCATION =  Department of Psychology
+Tech Central
+3424 South State Street, Room 201
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Public Safety
+EMAIL = publicsafety@iit.edu
+LOCATION =  Public Safety
+Tech Central
+3424 South State Street, Suite 115
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Quality of WorkLife
+EMAIL = qwl@iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Research Administration Services
+LOCATION =  Michael Paul Galvin Tower
+10 West 35th Street,13th Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Robert B. Kyts Design Studio and Machine Shop
+EMAIL = johnsoncr@iit.edu
+LOCATION =  John T. Rettaliata Engineering Center
+10 West 32nd Street, Room 141
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Social Sciences
+EMAIL = socscience@iit.edu
+LOCATION =  Department of Social Sciences
+Siegel Hall
+3301 South Dearborn, Suite 116
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Stuart Career Management Center (CMC)
+EMAIL = careers@stuart.iit.edu
+LOCATION =  Stuart Career Management Center (CMC)
+565 West Adams Street, 4th Floor
+Chicago, IL 60661
+
+<---   NEW DIRECTORY   --->
+TYPE = Academic
+NAME = Stuart School of Business
+LOCATION =  Stuart School of Business
+565 West Adams Street, 4th Floor
+Chicago, IL 60661
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Student Accounting
+EMAIL = sa@iit.edu
+LOCATION =  Michael Paul Galvin Tower
+10 West 35th Street, Suite 2C4-2
+Chicago, IL. 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Student Employment Office
+EMAIL = seo1@iit.edu
+LOCATION =  Student Employment Office
+Michael Paul Galvin Tower
+10 West 35th Street, 13F-3
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Student Health and Wellness Center
+EMAIL = student.health@iit.edu
+LOCATION =  Student Health and Wellness Center
+Michael Paul Galvin Tower
+10 West 35th Street, 3rd Floor
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Study Away Office
+EMAIL = studyabroad@iit.edu
+LOCATION =  Study Away Office
+McCormick Tribune Campus Center (MTCC), Room 212
+3201 South State Street
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Sustainable Business Innovation Clinic
+EMAIL = khalili@stuart.iit.edu
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = Sustainable Transportation and Infrastructure Research Center (STAIR)
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Undergraduate Academic Affairs
+EMAIL = ugaa@iit.edu
+LOCATION =  Office of Undergraduate Academic Affairs
+Michael Paul Galvin Tower
+10 West 35th Street, Suite 2C4-2
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Administrative
+NAME = Undergraduate Admission
+EMAIL = admission@iit.edu
+LOCATION =  Office of Undergraduate Admission
+Perlstein Hall
+10 West 33rd Street, Room 101
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Center
+NAME = University Technology Park
+LOCATION =  3440 South Dearborn Street
+Chicago, IL 60616
+
+<---   NEW DIRECTORY   --->
+TYPE = Institute
+NAME = Wanger Institute for Sustainable Energy Research (WISER)
+EMAIL = wiser@iit.edu
+LOCATION =  Wanger Institute for Sustainable Energy Research (WISER)
+Michael Paul Galvin Tower
+10 West 35th Street, 16th Floor
+Chicago, IL 60616

@@ -1,0 +1,246 @@
+Administrative, Academic Affairs, ugaa@iit.edu
+
+Administrative, Academic Resource Center, arc@iit.edu
+
+Center, Active Computational Thinking (ACT) Center
+
+Academic, Air Force ROTC (AFROTC), afrotc@iit.edu
+
+Academic, Applied Mathematics, amath@iit.edu
+
+Academic, Armour College of Engineering, engineering@iit.edu
+
+Academic, Army ROTC, armyrotc@iit.edu
+
+Administrative, Athletics
+
+Academic, Biology, kersh@iit.edu
+
+Academic, Biomedical Engineering, bme@iit.edu
+
+Administrative, Budget and Finance
+
+Administrative, Campus Business Services Center, campusbusiness@iit.edu
+
+Administrative, Career Services, careerservices@iit.edu
+
+Center, Center for Advancing Corporate Performance
+
+Center, Center for Complex Systems and Dynamics
+
+Center, Center for Cyber Security and Forensics Education (C²SAFE)
+
+Administrative, Center for Disability Resources, disabilities@iit.edu
+
+Center, Center for Integrative Neuroscience and Neuroengineering Research
+
+Administrative, Center for Leadership Studies, leadership.academy@iit.edu
+
+Center, Center for Learning Innovation, cli@iit.edu
+
+Center, Center for Molecular Study of Condensed Soft Matter
+
+Center, Center for Research and Service, center@iit.edu
+
+Center, Center for Stochastic Dynamics
+
+Center, Center for Strategic Finance
+
+Center, Center for Study of Ethics in the Professions
+
+Center, Center for Synchrotron Radiation Research and Instrumentation
+
+Academic, Chemical and Biological Engineering, chbe@iit.edu
+
+Academic, Chemistry, gfox1@iit.edu
+
+Academic, Chicago-Kent College of Law
+
+Administrative, Chicago-Kent College of Law Library, library@kentlaw.iit.edu
+
+Academic, Civil, Architectural, and Environmental Engineering, caee@iit.edu
+
+Academic, College of Architecture, arch@iit.edu
+
+Academic, College of Computing
+
+Administrative, Commencement, commencement@iit.edu
+
+Administrative, Communication Across the Curriculum (CAC), pulliam@iit.edu
+
+Academic, Computer Science, info@cs.iit.edu
+
+Administrative, Controller’s Office
+
+Administrative, Corporate Education Partnerships, cep@iit.edu
+
+Administrative, Diversity, Equity, and Inclusion at Illinois Tech, DEICommittee@iit.edu
+
+Institute, Ed Kaplan Family Institute for Innovation and Tech Entrepreneurship, kiinfo@kaplan.iit.edu
+
+Academic, Electrical and Computer Engineering, ece@iit.edu
+
+Administrative, Elevate Your Future, elevate@iit.edu
+
+Administrative, Emergency Management, rstarbuck@iit.edu
+
+Academic, Empowerment, Leadership, and Mentorship Program, elm@iit.edu
+
+Academic, English Language Services, els@iit.edu
+
+Administrative, Enrollment Process Intelligence
+
+Administrative, Enrollment Services
+
+Administrative, Esports, esports@iit.edu
+
+Administrative, Export Compliance Program, exportcontrol@iit.edu
+
+Administrative, Facilities Operations and Maintenance, facilities-helpdesk@iit.edu
+
+Administrative, Financial Aid, finaid@iit.edu
+
+Academic, Food Science and Nutrition, fdsn@iit.edu
+
+Administrative, General Accounting
+
+Administrative, Graduate Academic Affairs, gradcoll@iit.edu
+
+Administrative, Graduate Admission, grad.admission@iit.edu
+
+Administrative, Graham Resource Center
+
+Administrative, Grant and Contract Accounting
+
+Administrative, Human Resources, hr@iit.edu
+
+Academic, Humanities, humanities@iit.edu
+
+Administrative, IFSH Library
+
+Administrative, Illinois Tech Alumni Association, alumni@iit.edu
+
+Center, Illinois Tech Digital Medical Engineering and Technology (IDMET) Research and Education Center, IDMET@iit.edu
+
+Academic, Industrial Technology and Management, intm@iit.edu
+
+Academic, Information Technology and Management
+
+Institute, Institute for Food Safety and Health (IFSH)
+
+Academic, Institute of Design
+
+Administrative, International Center, icenter@iit.edu
+
+Center, International Center for Sensor Science and Engineering
+
+Administrative, IPRO Program, ipro@iit.edu
+
+Academic, Lewis College of Science and Letters, lewis@iit.edu
+
+Academic, Mechanical, Materials, and Aerospace Engineering, mmae@iit.edu
+
+Academic, Navy ROTC (NROTC), nrotc@iit.edu
+
+Administrative, Office of Advancement, alumni@iit.edu
+
+Administrative, Office of Campus Energy and Sustainability, campussustainability@iit.edu
+
+Administrative, Office of Campus Life, campus.life@iit.edu
+
+Administrative, Office of Community Affairs and Outreach Programs, community@iit.edu
+
+Administrative, Office of Community Standards, conduct@iit.edu
+
+Administrative, Office of Corporate Relations, corporate.relations@iit.edu
+
+Administrative, Office of Event Services, events@iit.edu
+
+Administrative, Office of Finance and Administration
+
+Administrative, Office of Institutional Information and Research, oii@iit.edu
+
+Administrative, Office of International Affairs, wasan@iit.edu
+
+Administrative, Office of Marketing and Communications
+
+Academic, Office of Professional and Continuing Education, opce@iit.edu
+
+Administrative, Office of Research
+
+Administrative, Office of Research Integrity and Compliance, oric@iit.edu
+
+Administrative, Office of Residence Life, housing@iit.edu
+
+Administrative, Office of Sponsored Research and Programs, osrp@iit.edu
+
+Administrative, Office of Technology Development, sklapman@iit.edu
+
+Administrative, Office of Technology Services
+
+Administrative, Office of the General Counsel
+
+Administrative, Office of the President
+
+Administrative, Office of the Provost
+
+Administrative, Office of the Registrar, registrar@iit.edu
+
+Administrative, Office of the Vice Provost for Student Affairs, dos@iit.edu
+
+Administrative, Office of Title IX Compliance and HEA Compliance
+
+Administrative, Office Services, officeservices@iit.edu
+
+Administrative, Paul V. Galvin Library, library@iit.edu
+
+Administrative, Payroll Office, payroll@iit.edu
+
+Academic, Physics, kersh@iit.edu
+
+Administrative, Planning, Design, and Construction
+
+Administrative, Postal Services, copy@iit.edu
+
+Administrative, President’s Student Advisory Council (PSAC), psac@iit.edu
+
+Institute, Pritzker Institute of Biomedical Science and Engineering, pritzker.institute@iit.edu
+
+Administrative, Procurement Services
+
+Academic, Psychology, psychology@iit.edu
+
+Administrative, Public Safety, publicsafety@iit.edu
+
+Administrative, Quality of WorkLife, qwl@iit.edu
+
+Administrative, Research Administration Services
+
+Administrative, Robert B. Kyts Design Studio and Machine Shop, johnsoncr@iit.edu
+
+Academic, Social Sciences, socscience@iit.edu
+
+Administrative, Stuart Career Management Center (CMC), careers@stuart.iit.edu
+
+Academic, Stuart School of Business
+
+Administrative, Student Accounting, sa@iit.edu
+
+Administrative, Student Employment Office, seo1@iit.edu
+
+Administrative, Student Health and Wellness Center, student.health@iit.edu
+
+Administrative, Study Away Office, studyabroad@iit.edu
+
+Center, Sustainable Business Innovation Clinic, khalili@stuart.iit.edu
+
+Center, Sustainable Transportation and Infrastructure Research Center (STAIR)
+
+Administrative, Undergraduate Academic Affairs, ugaa@iit.edu
+
+Administrative, Undergraduate Admission, admission@iit.edu
+
+Center, University Technology Park
+
+Institute, Wanger Institute for Sustainable Energy Research (WISER), wiser@iit.edu
+
